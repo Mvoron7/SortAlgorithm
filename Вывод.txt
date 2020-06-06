@@ -1,0 +1,57 @@
+Size:  1 000| Loops:           999| N: 1,000| Sort: Bubble| RawArray:    Forward| Milliseconds:     0,9993| Ticks:       9 993
+Size:  1 000| Loops:       999 000| N: 2,000| Sort: Bubble| RawArray:       Back| Milliseconds:     3,9957| Ticks:      39 957
+Size:  1 000| Loops:       902 097| N: 1,985| Sort: Bubble| RawArray: Degenerate| Milliseconds:     3,9960| Ticks:      39 960
+Size:  1 000| Loops:       940 059| N: 1,991| Sort: Bubble| RawArray:     Ñasual| Milliseconds:     4,9948| Ticks:      49 948
+Size:  1 000| Loops:       499 500| N: 1,900| Sort: Choice| RawArray:    Forward| Milliseconds:     1,9980| Ticks:      19 980
+Size:  1 000| Loops:       499 500| N: 1,900| Sort: Choice| RawArray:       Back| Milliseconds:     0,9993| Ticks:       9 993
+Size:  1 000| Loops:       499 500| N: 1,900| Sort: Choice| RawArray: Degenerate| Milliseconds:     1,9980| Ticks:      19 980
+Size:  1 000| Loops:       499 500| N: 1,900| Sort: Choice| RawArray:     Ñasual| Milliseconds:     0,9989| Ticks:       9 989
+Size:  2 000| Loops:         1 999| N: 1,000| Sort: Bubble| RawArray:    Forward| Milliseconds:     0,0000| Ticks:           0
+Size:  2 000| Loops:     3 998 000| N: 2,000| Sort: Bubble| RawArray:       Back| Milliseconds:    17,9817| Ticks:     179 817
+Size:  2 000| Loops:     3 628 185| N: 1,987| Sort: Bubble| RawArray: Degenerate| Milliseconds:    17,9827| Ticks:     179 827
+Size:  2 000| Loops:     3 962 018| N: 1,999| Sort: Bubble| RawArray:     Ñasual| Milliseconds:    17,9913| Ticks:     179 913
+Size:  2 000| Loops:     1 999 000| N: 1,909| Sort: Choice| RawArray:    Forward| Milliseconds:     6,9820| Ticks:      69 820
+Size:  2 000| Loops:     1 999 000| N: 1,909| Sort: Choice| RawArray:       Back| Milliseconds:     7,9918| Ticks:      79 918
+Size:  2 000| Loops:     1 999 000| N: 1,909| Sort: Choice| RawArray: Degenerate| Milliseconds:     5,9888| Ticks:      59 888
+Size:  2 000| Loops:     1 999 000| N: 1,909| Sort: Choice| RawArray:     Ñasual| Milliseconds:     6,9933| Ticks:      69 933
+Size:  4 000| Loops:         3 999| N: 1,000| Sort: Bubble| RawArray:    Forward| Milliseconds:     0,0000| Ticks:           0
+Size:  4 000| Loops:    15 996 000| N: 2,000| Sort: Bubble| RawArray:       Back| Milliseconds:    78,9360| Ticks:     789 360
+Size:  4 000| Loops:    14 612 346| N: 1,989| Sort: Bubble| RawArray: Degenerate| Milliseconds:    87,8922| Ticks:     878 922
+Size:  4 000| Loops:    15 880 029| N: 1,999| Sort: Bubble| RawArray:     Ñasual| Milliseconds:    77,9196| Ticks:     779 196
+Size:  4 000| Loops:     7 998 000| N: 1,916| Sort: Choice| RawArray:    Forward| Milliseconds:    24,9745| Ticks:     249 745
+Size:  4 000| Loops:     7 998 000| N: 1,916| Sort: Choice| RawArray:       Back| Milliseconds:    26,9726| Ticks:     269 726
+Size:  4 000| Loops:     7 998 000| N: 1,916| Sort: Choice| RawArray: Degenerate| Milliseconds:    34,9647| Ticks:     349 647
+Size:  4 000| Loops:     7 998 000| N: 1,916| Sort: Choice| RawArray:     Ñasual| Milliseconds:    36,9627| Ticks:     369 627
+Size:  8 000| Loops:         7 999| N: 1,000| Sort: Bubble| RawArray:    Forward| Milliseconds:     0,0000| Ticks:           0
+Size:  8 000| Loops:    63 992 000| N: 2,000| Sort: Bubble| RawArray:       Back| Milliseconds:   338,6540| Ticks:   3 386 540
+Size:  8 000| Loops:    58 192 725| N: 1,989| Sort: Bubble| RawArray: Degenerate| Milliseconds:   369,6218| Ticks:   3 696 218
+Size:  8 000| Loops:    63 168 103| N: 1,999| Sort: Bubble| RawArray:     Ñasual| Milliseconds:   333,6691| Ticks:   3 336 691
+Size:  8 000| Loops:    31 996 000| N: 1,923| Sort: Choice| RawArray:    Forward| Milliseconds:    98,8957| Ticks:     988 957
+Size:  8 000| Loops:    31 996 000| N: 1,923| Sort: Choice| RawArray:       Back| Milliseconds:   100,9150| Ticks:   1 009 150
+Size:  8 000| Loops:    31 996 000| N: 1,923| Sort: Choice| RawArray: Degenerate| Milliseconds:    96,8824| Ticks:     968 824
+Size:  8 000| Loops:    31 996 000| N: 1,923| Sort: Choice| RawArray:     Ñasual| Milliseconds:    98,8995| Ticks:     988 995
+Size: 16 000| Loops:        15 999| N: 1,000| Sort: Bubble| RawArray:    Forward| Milliseconds:     0,0000| Ticks:           0
+Size: 16 000| Loops:   255 984 000| N: 2,000| Sort: Bubble| RawArray:       Back| Milliseconds:  1159,8325| Ticks:  11 598 325
+Size: 16 000| Loops:   233 953 377| N: 1,991| Sort: Bubble| RawArray: Degenerate| Milliseconds:  1181,7738| Ticks:  11 817 738
+Size: 16 000| Loops:   252 656 208| N: 1,999| Sort: Bubble| RawArray:     Ñasual| Milliseconds:  1253,7293| Ticks:  12 537 293
+Size: 16 000| Loops:   127 992 000| N: 1,928| Sort: Choice| RawArray:    Forward| Milliseconds:   388,6022| Ticks:   3 886 022
+Size: 16 000| Loops:   127 992 000| N: 1,928| Sort: Choice| RawArray:       Back| Milliseconds:   405,5711| Ticks:   4 055 711
+Size: 16 000| Loops:   127 992 000| N: 1,928| Sort: Choice| RawArray: Degenerate| Milliseconds:   390,6136| Ticks:   3 906 136
+Size: 16 000| Loops:   127 992 000| N: 1,928| Sort: Choice| RawArray:     Ñasual| Milliseconds:   390,6148| Ticks:   3 906 148
+Size: 32 000| Loops:        31 999| N: 1,000| Sort: Bubble| RawArray:    Forward| Milliseconds:     0,0000| Ticks:           0
+Size: 32 000| Loops: 1 023 968 000| N: 2,000| Sort: Bubble| RawArray:       Back| Milliseconds:  4584,2885| Ticks:  45 842 885
+Size: 32 000| Loops:   938 018 686| N: 1,992| Sort: Bubble| RawArray: Degenerate| Milliseconds:  4895,9928| Ticks:  48 959 928
+Size: 32 000| Loops: 1 013 536 326| N: 1,999| Sort: Bubble| RawArray:     Ñasual| Milliseconds:  5632,2555| Ticks:  56 322 555
+Size: 32 000| Loops:   511 984 000| N: 1,933| Sort: Choice| RawArray:    Forward| Milliseconds:  1591,3898| Ticks:  15 913 898
+Size: 32 000| Loops:   511 984 000| N: 1,933| Sort: Choice| RawArray:       Back| Milliseconds:  1995,9536| Ticks:  19 959 536
+Size: 32 000| Loops:   511 984 000| N: 1,933| Sort: Choice| RawArray: Degenerate| Milliseconds:  1698,2612| Ticks:  16 982 612
+Size: 32 000| Loops:   511 984 000| N: 1,933| Sort: Choice| RawArray:     Ñasual| Milliseconds:  1803,7487| Ticks:  18 037 487
+Size: 64 000| Loops:        63 999| N: 1,000| Sort: Bubble| RawArray:    Forward| Milliseconds:     0,0000| Ticks:           0
+Size: 64 000| Loops: 4 095 936 000| N: 2,000| Sort: Bubble| RawArray:       Back| Milliseconds: 19638,8256| Ticks: 196 388 256
+Size: 64 000| Loops: 3 752 197 371| N: 1,992| Sort: Bubble| RawArray: Degenerate| Milliseconds: 20283,1378| Ticks: 202 831 378
+Size: 64 000| Loops: 4 064 832 486| N: 1,999| Sort: Bubble| RawArray:     Ñasual| Milliseconds: 21451,8630| Ticks: 214 518 630
+Size: 64 000| Loops: 2 047 968 000| N: 1,937| Sort: Choice| RawArray:    Forward| Milliseconds:  6688,0301| Ticks:  66 880 301
+Size: 64 000| Loops: 2 047 968 000| N: 1,937| Sort: Choice| RawArray:       Back| Milliseconds:  6872,1394| Ticks:  68 721 394
+Size: 64 000| Loops: 2 047 968 000| N: 1,937| Sort: Choice| RawArray: Degenerate| Milliseconds:  6597,7894| Ticks:  65 977 894
+Size: 64 000| Loops: 2 047 968 000| N: 1,937| Sort: Choice| RawArray:     Ñasual| Milliseconds:  8399,8416| Ticks:  83 998 416
+                                                                                                                     
